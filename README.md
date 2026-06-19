@@ -522,8 +522,8 @@ GROUP BY m.mitglied_id, m.nachname, m.vorname
 ORDER BY ausleihen_gesamt DESC;
 ```
 
-> *Which member has the most loans? What does `FILTER (WHERE ...)` do here
-> compared to a `CASE WHEN` expression?*
+Jonas Berger has the most loans with 2 loans.
+Jonas Berger has the most loans (2). FILTER (WHERE ...) counts only the open loans. It works like CASE WHEN, but the query is shorter and easier to read.
 
 ---
 

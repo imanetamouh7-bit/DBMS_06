@@ -98,7 +98,7 @@ psql --version
 
 > **Screenshot 2:** Take a screenshot showing the output of both commands.
 >
-> `[insert screenshot]`
+![screenshot 1](screenshot1.png)
 
 ---
 

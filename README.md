@@ -544,13 +544,11 @@ WHERE  NOT EXISTS (
 );
 ```
 
-> *Which books appear in the result? Verify the result manually against the
-> data you entered.*
-
+The result contains only "Das Parfum" published by Fischer. It has no lending record, so it has never been borrowed.
 > **Screenshot 7:** Take a screenshot showing the output of all three queries
 > in sequence in the `psql` shell.
 >
-> `[insert screenshot]`
+![screenshot 7](screenshot7.png)
 
 ### Questions for Section 7
 

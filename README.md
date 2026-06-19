@@ -718,7 +718,7 @@ ORDER BY reservierungen DESC;
 > **Screenshot 9:** Take a screenshot showing the output of all three
 > `SELECT` statements.
 >
-> `[insert screenshot]`
+![screenshot 9](screenshot9.png)
 
 ### Questions for Section 9
 

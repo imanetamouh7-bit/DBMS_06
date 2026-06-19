@@ -502,8 +502,7 @@ WHERE  a.rueckgabe_datum IS NULL
 ORDER BY tage_ausgeliehen DESC;
 ```
 
-> *Describe the result: how many open loans are there, and which member has
-> held a book the longest?*
+There are 2 open loans. Lea Hartmann has held a book the longest (45 days).
 
 ---
 

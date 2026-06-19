@@ -256,7 +256,8 @@ Inspect the structure of one table:
 > **Screenshot 4:** Take a screenshot showing the output of `\dt` and
 > `\d ausleihe`.
 >
-> `[insert screenshot]`
+![screenshot 4](screenshot4.png)
+![screenshot 4a](screenshot4a.png)
 
 ### Questions for Section 4
 

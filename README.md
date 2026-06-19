@@ -447,7 +447,7 @@ SELECT * FROM ausleihe;
 
 > **Screenshot 6:** Take a screenshot showing the full output of `SELECT * FROM ausleihe`.
 >
-> `[insert screenshot]`
+![screenshot 6](screenshot6.png)
 
 ### Questions for Section 6
 

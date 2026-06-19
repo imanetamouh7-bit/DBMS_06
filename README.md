@@ -665,7 +665,7 @@ psql -U <your-username> -d kino -f kino.sql
 
 > **Screenshot 8:** Take a screenshot showing the script execution output.
 >
-> `[insert screenshot]`
+![screenshot 8](screenshot8.png)
 
 ---
 

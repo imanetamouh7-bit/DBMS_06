@@ -154,7 +154,7 @@ Exit the superuser session:
 > **Screenshot 3:** Take a screenshot showing the `CREATE ROLE`, `CREATE DATABASE`,
 > and both `SELECT` results inside the `postgres=#` session.
 >
-> `[insert screenshot]`
+![screenshot 3](screenshot3.png)
 
 ---
 
